@@ -12,4 +12,4 @@ Submission structure:
 - "Report_2": the directory which contains the project report & comments.
 
 
-These assignments are implemented in Phyton by using Colab which are dividend in "Code" and "Result" sections.
+This assignments is implemented in Phyton by using Colab which is dividend in "Code" and "Result" sections.
