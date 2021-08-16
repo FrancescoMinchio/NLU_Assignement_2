@@ -8,8 +8,8 @@ ID: 225269
 
 Submission structure:
 
-- "Assignement_2": the code which contains 3 tasks.
-- "Report_2": the directory which contains the project report & comments.
+- "Second_Assignement": the code which contains the tasks and the project report & comments.
 
-
-This assignments is implemented in Phyton by using Colab which is dividend in "Code" and "Result" sections.
+Requirements:
+- python
+- spaCy
