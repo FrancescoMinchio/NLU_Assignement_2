@@ -1,4 +1,4 @@
-# NLU_Assignement_2
+# NLU_Assignment_2
 
 2st assignment for NLU course 2020/2021 at DISI - UNITN.
 
@@ -8,7 +8,7 @@ ID: 225269
 
 Submission structure:
 
-- "Second_Assignement": the code which contains the tasks and the project report & comments.
+- "Second_Assignment": the code which contains the tasks and the project report & comments.
 
 Requirements:
 - python
